@@ -1,7 +1,7 @@
 # PLANGFINAL - Maze Agent
 Project from AI used for PLang Final :)  
 
-Check out my Maze Agent avoid pits and solve a maze!  
+Check out my blind Maze Agent avoid pits and solve a maze!  
 
 I do this by opening the project in VSCode and opening a new terminal.  
 
