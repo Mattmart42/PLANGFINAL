@@ -1,4 +1,4 @@
-# PLANGFINAL
+# PLANGFINAL - Maze Agent
 Project from AI used for PLang Final :)  
 
 Check out my Maze Agent avoid pits and solve a maze!  
