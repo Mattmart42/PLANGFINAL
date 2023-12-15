@@ -534,5 +534,5 @@ if __name__ == "__main__":
     # indexes! Make sure to run pitsweeper_tests.py for more comprehensive
     # unit testing.
     # Call with tick_length = 0 for instant games
-    env = Environment(mazes[0], tick_length = 0, verbose = True)
+    env = Environment(mazes[0], tick_length = 1, verbose = True)
     env.start_mission()
